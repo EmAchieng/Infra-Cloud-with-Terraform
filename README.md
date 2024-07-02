@@ -53,3 +53,7 @@ terraform destroy
 ```bash
 terraform destroy
 ```
+
+## Disaster Recovery Plan
+
+For detailed information on the disaster recovery plan for this infrastructure, please refer to `DisasterRecoveryPlan.md`.
